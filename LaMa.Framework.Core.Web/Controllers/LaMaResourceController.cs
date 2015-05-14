@@ -9,22 +9,22 @@ using LaMa.Framework.Core.Web.Models;
 
 namespace LaMa.Framework.Core.Web.Controllers
 {
-    public class LaMaResourceController : LaMaController
+    public sealed class LaMaResourceController : LaMaController
     {
         public ActionResult GetResource(string contentName)
         {
             string extension = Path.GetExtension(contentName);
             string resourceKey = ClientFileResources.GetResource(contentName);
-            Stream stream = System.Reflection.Assembly.GetExecutingAssembly().GetManifestResourceStream(resourceKey);
-
-            if (stream == null)
+            if (!string.IsNullOrEmpty(resourceKey))
             {
-                //moet resource worden
-                return new HttpStatusCodeResult(404);
-            }
-            var result = new FileStreamResult(stream, HtmlContentType.GetContentType(extension));
-
-            return result;
+                Stream stream = System.Reflection.Assembly.GetExecutingAssembly().GetManifestResourceStream(resourceKey);
+                if (stream == null)
+                {
+                    return new HttpStatusCodeResult(404);
+                }
+               return new FileStreamResult(stream, HtmlContentType.GetContentType(extension)); 
+            } 
+            return new HttpStatusCodeResult(404);
         }
     }
 }

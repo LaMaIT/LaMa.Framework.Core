@@ -6,7 +6,7 @@ namespace LaMa.Framework.Core.Web.Assets
 {
     public static class ClientFileResources
     {
-        private const string ASSETS_NAMESPACE =  "LaMa.Framework.Web.Mvc.Assets";
+        private const string ASSETS_NAMESPACE = "LaMa.Framework.Core.Web.Assets";
         private static readonly ReadOnlyDictionary<string, string> _resourceDictionary;
         private static readonly string[] _defaultScriptNames;
         private static readonly string[] _defaultStyleSheetNames;
@@ -30,7 +30,11 @@ namespace LaMa.Framework.Core.Web.Assets
       
         public static string GetResource(string name)
         {
-            return _resourceDictionary[name];
+            if (_resourceDictionary.ContainsKey(name))
+            {
+                return _resourceDictionary[name];
+            }
+            return string.Empty;
         }
 
         public static string[] GetDefaultScriptNames()
