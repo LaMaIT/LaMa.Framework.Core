@@ -1,0 +1,17 @@
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\obj\Debug\LaMa.Framework.Core.Web.Tests.csprojResolveAssemblyReference.cache
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\LaMa.Framework.Core.Web.Tests.dll
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\LaMa.Framework.Core.Web.Tests.pdb
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\LaMa.Framework.Core.Web.dll
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.Mvc.dll
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.Razor.dll
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.WebPages.dll
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\LaMa.Framework.Core.Web.pdb
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.Mvc.xml
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.Razor.xml
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.WebPages.xml
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\obj\Debug\LaMa.Framework.Core.Web.Tests.dll
+E:\VS2013\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\obj\Debug\LaMa.Framework.Core.Web.Tests.pdb
