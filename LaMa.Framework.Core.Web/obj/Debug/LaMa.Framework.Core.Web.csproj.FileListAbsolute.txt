@@ -31,6 +31,6 @@ E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Webpages.Razor.xml
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Helpers.xml
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Mvc.xml
-E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web\obj\Debug\LaMa.Framework.Core.Web.csprojResolveAssemblyReference.cache
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web\obj\Debug\LaMa.Framework.Core.Web.dll
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web\obj\Debug\LaMa.Framework.Core.Web.pdb
+E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web\obj\Debug\LaMa.Framework.Core.Web.csprojResolveAssemblyReference.cache

@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -19,6 +20,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <TypeScriptToolsVersion>1.0</TypeScriptToolsVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -103,12 +105,21 @@
     <Compile Include="Controllers\LaMaAuthController.cs" />
     <Compile Include="Controllers\LaMaController.cs" />
     <Compile Include="Controllers\LaMaResourceController.cs" />
+    <Compile Include="Enums\Enumerations.cs" />
+    <Compile Include="ExtensionMethods\DictionaryExtensions\DictionaryExtensions.cs" />
+    <Compile Include="ExtensionMethods\HtmlExtensions\HtmlLinkExtensions.cs" />
     <Compile Include="ExtensionMethods\HtmlExtensions\HtmlResources.cs" />
-    <Compile Include="Models\HtmlContentType.cs" />
+    <Compile Include="Helpers\HtmlContentType.cs" />
+    <Compile Include="HtmlControls\Bootstrap\BootstrapTableControlSettings.cs" />
+    <Compile Include="HtmlControls\Bootstrap\BootstrapTableControl.cs" />
+    <Compile Include="HtmlControls\ContextControl.cs" />
+    <Compile Include="MVCWrappers\PresentationModel.cs" />
+    <Compile Include="ValueObjects\RouteInfo.cs" />
+    <Compile Include="Helpers\TypeTranslaterHelper.cs" />
+    <Compile Include="MVCWrappers\WebViewPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\web.config" />
     <Content Include="packages.config" />
     <EmbeddedResource Include="Assets\css\bootstrap-theme.css.map" />
     <EmbeddedResource Include="Assets\css\bootstrap.css.map" />
@@ -118,7 +129,7 @@
     <EmbeddedResource Include="Assets\fonts\glyphicons-halflings-regular.woff2" />
     <EmbeddedResource Include="Assets\Scripts\jquery-2.0.3.min.map" />
     <EmbeddedResource Include="Assets\Scripts\modernizr-2.6.2.min.js.map" />
-    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Assets\Controls\Bootstrap\Table\BootstrapTable.less" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -129,15 +140,17 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="App_Start\" />
-    <Folder Include="Views\LaMaAuth\" />
-    <Folder Include="Views\LaMaResource\" />
-    <Folder Include="Views\LaMa\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="Assets\Controls\Bootstrap\Table\BootstrapTable.ts" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets')" />
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
   <ProjectExtensions>

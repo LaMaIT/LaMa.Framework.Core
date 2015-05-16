@@ -7,7 +7,7 @@ using System.Web.Mvc;
 namespace LaMa.Framework.Core.Web.Controllers
 {
     [Obsolete("Not implemented yet")]
-    public class LaMaAuthController : LaMaController
+    public abstract class LaMaAuthController : LaMaController
     {
         //Todo
        

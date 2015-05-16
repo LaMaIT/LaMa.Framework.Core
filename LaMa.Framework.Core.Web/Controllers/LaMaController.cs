@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace LaMa.Framework.Core.Web.Controllers
 {
-    public class LaMaController : Controller
+    public abstract class LaMaController : Controller
     {
      
       

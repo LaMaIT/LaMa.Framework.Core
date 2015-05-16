@@ -5,7 +5,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using LaMa.Framework.Core.Web.Assets;
-using LaMa.Framework.Core.Web.Models;
+using LaMa.Framework.Core.Web.Helpers;
 
 namespace LaMa.Framework.Core.Web.Controllers
 {
@@ -18,11 +18,10 @@ namespace LaMa.Framework.Core.Web.Controllers
             if (!string.IsNullOrEmpty(resourceKey))
             {
                 Stream stream = System.Reflection.Assembly.GetExecutingAssembly().GetManifestResourceStream(resourceKey);
-                if (stream == null)
+                if (stream != null)
                 {
-                    return new HttpStatusCodeResult(404);
-                }
-               return new FileStreamResult(stream, HtmlContentType.GetContentType(extension)); 
+                    return new FileStreamResult(stream, HtmlContentType.GetContentType(extension)); 
+                } 
             } 
             return new HttpStatusCodeResult(404);
         }
