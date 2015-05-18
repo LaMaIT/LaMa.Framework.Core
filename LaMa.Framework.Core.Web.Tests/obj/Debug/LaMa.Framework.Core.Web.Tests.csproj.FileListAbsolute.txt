@@ -37,3 +37,25 @@ E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\obj\Debug\LaMa.Framework.Core.Web.Tests.csprojResolveAssemblyReference.cache
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\obj\Debug\LaMa.Framework.Core.Web.Tests.dll
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\obj\Debug\LaMa.Framework.Core.Web.Tests.pdb
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\LaMa.Framework.Core.Web.Tests.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\LaMa.Framework.Core.Web.Tests.pdb
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\LaMa.Framework.Core.Web.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\nunit.framework.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.Razor.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\LaMa.Framework.Core.Web.pdb
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\nunit.framework.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.Razor.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\obj\Debug\LaMa.Framework.Core.Web.Tests.csprojResolveAssemblyReference.cache
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\obj\Debug\LaMa.Framework.Core.Web.Tests.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web.Tests\obj\Debug\LaMa.Framework.Core.Web.Tests.pdb

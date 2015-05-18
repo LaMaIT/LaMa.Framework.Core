@@ -21,6 +21,7 @@
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
     <TypeScriptToolsVersion>1.0</TypeScriptToolsVersion>
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -110,6 +111,7 @@
     <Compile Include="ExtensionMethods\HtmlExtensions\HtmlLinkExtensions.cs" />
     <Compile Include="ExtensionMethods\HtmlExtensions\HtmlResources.cs" />
     <Compile Include="Helpers\HtmlContentType.cs" />
+    <Compile Include="Helpers\JavascriptBuilder.cs" />
     <Compile Include="HtmlControls\Bootstrap\BootstrapTableControlSettings.cs" />
     <Compile Include="HtmlControls\Bootstrap\BootstrapTableControl.cs" />
     <Compile Include="HtmlControls\ContextControl.cs" />

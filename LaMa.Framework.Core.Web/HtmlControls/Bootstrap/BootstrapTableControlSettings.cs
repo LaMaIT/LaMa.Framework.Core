@@ -8,16 +8,14 @@ namespace LaMa.Framework.Core.Web.HtmlControls.Bootstrap
         {
             //default values
             IsCondensed = false;
-            IsHovered = false;
+            IsHovered = true;
             IsBordered = false;
             IsStriped = false;
             DisplayHeader = true;
             HasSearch = false;
         }
 
-        internal string CssClass { get; set; }
-        
-
+        internal string CssClass { get; set; } 
         internal bool DisplayHeader { get; set; }
         //TODO add search
         internal bool HasSearch { get; set; }
@@ -40,7 +38,7 @@ namespace LaMa.Framework.Core.Web.HtmlControls.Bootstrap
         /// </summary>
         /// <param name="value">default <c>true</c></param>
         /// <returns></returns>
-        public BootstrapTableControlSettings SetDisplayHeader(bool value)
+        public BootstrapTableControlSettings SetDisplayHeader(bool value=true)
         {
             DisplayHeader = value;
             return this;
@@ -52,7 +50,7 @@ namespace LaMa.Framework.Core.Web.HtmlControls.Bootstrap
         /// </summary>
         /// <param name="value">default <c>false</c></param>
         /// <returns></returns>
-        public BootstrapTableControlSettings SetStripped(bool value)
+        public BootstrapTableControlSettings SetStripped(bool value=true)
         {
             IsStriped  = value;
             return this;
@@ -63,7 +61,7 @@ namespace LaMa.Framework.Core.Web.HtmlControls.Bootstrap
         /// </summary>
         /// <param name="value">default <c>false</c></param>
         /// <returns></returns>
-        public BootstrapTableControlSettings SetBordered(bool value)
+        public BootstrapTableControlSettings SetBordered(bool value=true)
         {
             IsBordered = value;
             return this;
@@ -72,9 +70,9 @@ namespace LaMa.Framework.Core.Web.HtmlControls.Bootstrap
         /// marks the row when hoovered
         /// Default: <c>Not Hoovered</c> 
         /// </summary>
-        /// <param name="value">default <c>false</c></param>
+        /// <param name="value">default <c>true</c></param>
         /// <returns></returns>
-        public BootstrapTableControlSettings SetHoovered(bool value)
+        public BootstrapTableControlSettings SetHoovered(bool value=true)
         {
             IsHovered = value;
             return this;
@@ -85,7 +83,7 @@ namespace LaMa.Framework.Core.Web.HtmlControls.Bootstrap
         /// </summary>
         /// <param name="value">default <c>false</c></param>
         /// <returns></returns>
-        public BootstrapTableControlSettings SetCondensed(bool value)
+        public BootstrapTableControlSettings SetCondensed(bool value=true)
         {
             IsCondensed = value;
             return this;

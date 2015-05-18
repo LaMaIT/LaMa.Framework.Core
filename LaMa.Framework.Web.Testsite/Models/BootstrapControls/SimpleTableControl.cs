@@ -17,15 +17,17 @@ namespace LaMa.Framework.Web.Testsite.Models.BootstrapControls
     {
         public BootstrapTableControl BootstrapTableControl { get; set; }
         public override void Init()
-        { 
-            BootstrapTableControl = new BootstrapTableControl("usersTbl","usersTbl",BootstrapTableControlSettings.Create().SetStripped(true));
-            BootstrapTableControl.AddColumn("Id", true)
-                .AddColumn("Firstname")
+        {
+            var settings = BootstrapTableControlSettings.Create()
+                                                        .SetStripped()
+                                                        .SetBordered()
+                                                        .SetCondensed();
+            BootstrapTableControl = new BootstrapTableControl("usersTbl","usersTbl",settings);
+            BootstrapTableControl.AddColumn<User,int>(x=>x.Id, true)
+                .AddColumn<User,string>(x => x.Firstname)
                 .AddColumn("Lastname")
-                .AddColumn("Date Of Birth")
-                .AddColumn("Premium");
-
-
+                .AddColumn<User,DateTime>("Date Of Birth",x=>x.DateOfBirth)
+                .AddColumn<User,bool>("Premium", x=>x.IsPremium);
         }
     }
 

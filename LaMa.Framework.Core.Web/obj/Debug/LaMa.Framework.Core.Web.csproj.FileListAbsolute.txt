@@ -34,3 +34,22 @@ E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web\obj\Debug\LaMa.Framework.Core.Web.dll
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web\obj\Debug\LaMa.Framework.Core.Web.pdb
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Core.Web\obj\Debug\LaMa.Framework.Core.Web.csprojResolveAssemblyReference.cache
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\LaMa.Framework.Core.Web.dll.config
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\LaMa.Framework.Core.Web.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\LaMa.Framework.Core.Web.pdb
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Helpers.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Mvc.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Razor.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Webpages.Deployment.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Webpages.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Webpages.Razor.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Razor.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Webpages.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Webpages.Deployment.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Webpages.Razor.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Helpers.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\bin\System.Web.Mvc.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\obj\Debug\LaMa.Framework.Core.Web.csprojResolveAssemblyReference.cache
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\obj\Debug\LaMa.Framework.Core.Web.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Core.Web\obj\Debug\LaMa.Framework.Core.Web.pdb

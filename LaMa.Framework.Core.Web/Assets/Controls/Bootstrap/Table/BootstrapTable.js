@@ -1,1 +1,1 @@
-﻿//# sourceMappingURL=BootstrapTable.js.map
+//# sourceMappingURL=BootstrapTable.js.map

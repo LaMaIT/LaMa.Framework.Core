@@ -1,4 +1,4 @@
-﻿@inherits LaMa.Framework.Core.Web.MVCWrappers.WebViewPage<LaMa.Framework.Web.Testsite.Models.BootstrapControls.SimpleTableControlPM,LaMa.Framework.Web.Testsite.Models.BootstrapControls.SimpleTableControlVM>
+﻿@inherits LaMa.Framework.Core.Web.MVCWrappers.WebViewPage<LaMa.Framework.Web.Testsite.Models.BootstrapControls.SimpleTableControlPM, LaMa.Framework.Web.Testsite.Models.BootstrapControls.SimpleTableControlVM>
 @{
     ViewBag.Title = "Index";
 }
@@ -6,30 +6,6 @@
 <h2>Users</h2>
 
 
-@*<table class="table">
-    <thead>
-        <tr>
-            <th>Id</th>
-            <th>Firstname</th>
-            <th>Lastname</th>
-            <th>Date of Birth</th>
-            <th>Premium</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var user in Model.Users)
-        {
-            <tr>
-                <td>@user.Id</td>
-                <td>@user.Firstname</td>
-                <td>@user.Lastname</td>
-                <td>@user.DateOfBirth</td>
-                <td>@user.IsPremium</td>
-            </tr>
-        }
-        
-    </tbody>
-</table>*@
 
 @PresentationModel.BootstrapTableControl.Render(Url.RouteUrl(new RouteValueDictionary{
                                                                                           {"action","GetUsers"},

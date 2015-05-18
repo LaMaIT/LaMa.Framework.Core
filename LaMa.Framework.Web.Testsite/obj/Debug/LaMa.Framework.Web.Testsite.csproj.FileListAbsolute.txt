@@ -26,3 +26,30 @@ E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Web.Test
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\obj\Debug\LaMa.Framework.Web.Testsite.csprojResolveAssemblyReference.cache
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\obj\Debug\LaMa.Framework.Web.Testsite.dll
 E:\VS2013\Github\LaMa.Framework.Core\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\obj\Debug\LaMa.Framework.Web.Testsite.pdb
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\LaMa.Framework.Web.Testsite.dll.config
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\LaMa.Framework.Web.Testsite.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\LaMa.Framework.Web.Testsite.pdb
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\Antlr3.Runtime.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\LaMa.Framework.Core.Web.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\Microsoft.Web.Infrastructure.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\Newtonsoft.Json.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.Helpers.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.Mvc.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.Optimization.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.Razor.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.WebPages.Deployment.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.WebPages.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.WebPages.Razor.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\WebGrease.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\LaMa.Framework.Core.Web.pdb
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.Helpers.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.Mvc.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.Optimization.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.Razor.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.WebPages.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.WebPages.Deployment.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\System.Web.WebPages.Razor.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\bin\Newtonsoft.Json.xml
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\obj\Debug\LaMa.Framework.Web.Testsite.csprojResolveAssemblyReference.cache
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\obj\Debug\LaMa.Framework.Web.Testsite.dll
+E:\Development\Projects\Visual Studio\Web\LaMa.Framework.Core\LaMa.Framework.Web.Testsite\obj\Debug\LaMa.Framework.Web.Testsite.pdb
